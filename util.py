@@ -19,3 +19,6 @@ def generate_token(username, exp=3600 * 24):
     return change_str(jwt.encode(payload=payload, key=key, algorithm='HS256'))
 
 
+
+s = generate_token('dang') 
+print(s)

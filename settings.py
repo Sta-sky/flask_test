@@ -1,1 +1,1 @@
-UAER_KEY = 'gtredacdad432'
+UAER_KEY = 'GKDH432J$dsdHSKF2'
